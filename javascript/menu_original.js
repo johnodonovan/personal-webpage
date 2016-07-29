@@ -1,0 +1,14 @@
+document.write('<div id="sections">');
+document.write('<ul>');
+document.write('<li class="section"><a href="index.html">Home</a></li>');
+document.write('<li class="section"><a href="projects.html">Project & Research</a></li>');
+document.write('<li class="section"><a href="people.html">People</a></li>');
+document.write('<li class="section"><a href="publications.html">Publications & Talks</a></li>');
+document.write('<li class="section"><a href="code.html">Code</a></li>');
+document.write('<li class="section"><a href="#">Data</a></li>');
+document.write('<li class="section"><a href="#">Collaborations</a></li>');
+document.write('<li class="section"><a href="#">Funding</a></li>');
+document.write('<li class="section"><a href="contact.html">Contact</a></li>');
+document.write('<li class="section"><a href="conferences.html">Conferences</a></li>');
+document.write('</ul>');
+document.write('</div>');

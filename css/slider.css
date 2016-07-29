@@ -1,0 +1,28 @@
+#carrousel{
+    width:720px;
+    height:300px;
+    margin:0 auto;
+    position:relative;
+    overflow:hidden;
+    border-left: 1px solid #DADADA;
+    border-right: 1px solid #DADADA;
+}
+
+.slide{
+    position:absolute;
+    top:0;
+    left:0;
+    width:720px;
+    height:300px;
+}
+
+.title_slider{
+position:absolute;
+padding-left:12px;
+width:710px;
+line-height:35px;
+height:35px;
+bottom:0;
+left:0;
+background-image: url("../Images/slides/background_title.png");
+}

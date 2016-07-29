@@ -1,0 +1,15 @@
+document.write('<footer id="footer">');
+document.write('<section class="upper_line"></section>');
+document.write('<section class="il_logo">');
+document.write('<a href="http://ilab.cs.ucsb.edu/">');
+document.write('<img src="images/logos/il.png" alt="ilab logo"/>');
+document.write('</a>');
+document.write('</section>');
+document.write('<section class="address">');
+document.write('<span>Four Eyes Lab</span><br/>');
+document.write('<span>Department of Computer Science</span>');
+document.write('<span>University of California</span>');
+document.write('<span>Santa Barbara, CA 93117</span>');
+document.write('</section>');
+document.write('<section class="copyright">&copy; Copyright 2012</section>');
+document.write('</footer>');
