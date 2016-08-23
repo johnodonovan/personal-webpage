@@ -170,6 +170,10 @@ margin-left: 30px;
 clear: both;
 }
 
+.pubspacer {
+height: 50px;
+}
+
 .section {
 display: block;
 height: 28px;
