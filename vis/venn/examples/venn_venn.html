@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Venn diagram of Venn diagrams</title>
+<style>
+body {
+font-size : 16px;
+font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+</style>
+</head>
+
+<body>
+    <div id="venn"></div>
+</body>
+
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="../venn.js"></script>
+<script>
+var sets = [
+            {sets:["Most Popular Artists"], size: 12},
+            {sets:["Artists your neigbors like"], size: 12},
+            {sets:["Similar to artists in your profile"], size: 12},
+            {sets: ["Most Popular Artists", "Artists your neigbors like"], size: 4, label: "Metallica"},
+            {sets: ["Most Popular Artists", "Similar to artists in your profile"], size: 4, label: "Arcade Fire", },
+            {sets: ["Artists your neigbors like", "Similar to artists in your profile"], size: 4, label: "The XX"},
+            {sets: ["Most Popular Artists", "Artists your neigbors like", "Similar to artists in your profile"], size: 2, label: "Florence + The Machine"}
+    ];
+
+var chart = venn.VennDiagram()
+    chart.wrap(false) 
+    .width(640)
+    .height(640);
+
+var div = d3.select("#venn").datum(sets).call(chart);
+div.selectAll("text").style("fill", "white");
+div.selectAll(".venn-circle path").style("fill-opacity", .6);
+
+</script>
+</html>

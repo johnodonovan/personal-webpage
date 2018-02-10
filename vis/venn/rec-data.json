@@ -1,0 +1,40 @@
+{"name": "John Parish and Polly Jean Harvey",
+	"children":
+	[
+		{"name": "Most popular artists",
+			"children":
+			[
+				{"name": "John Parish and Polly Jean Harvey"},
+				{"name": "Metallica"},
+				{"name": "Arcade Fire"},
+				{"name": "alt-J"}
+			]},
+		{"name": "Artists that people similar to you like",
+			"children":
+				[
+					{"name": "John Parish and Polly Jean Harvey"},
+					{"name": "Florence + The Machine"},
+					{"name": "The XX"}
+				]},
+		{"name": "Similar to artists in your profile",
+			"children":
+				[
+					{"name": "Bla bla"}, 
+					{"name": "John Parish and Polly Jean Harvey"}
+				]}
+		]}
+
+
+
+
+
+
+	var sets = [
+            {sets:["Information"], size: 12},
+            {sets:["Things That Overlap"], size: 12},
+            {sets:["Circles"], size: 12},
+            {sets: ["Information", "Things That Overlap"], size: 4, label: "Redundancy"},
+            {sets: ["Information", "Circles"], size: 4, label: "Pie Charts", },
+            {sets: ["Things That Overlap", "Circles"], size: 4, label: "Eclipses"},
+            {sets: ["Information", "Things That Overlap", "Circles"], size: 2, label: "Venn Diagrams"}
+    ];
