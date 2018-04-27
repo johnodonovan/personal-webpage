@@ -6,7 +6,7 @@ document.write('<li class="section"><a href="publications.html">Publications</a>
 document.write('<li class="section"><a href="http://scholar.google.com/citations?hl=en&user=LKfYtakAAAAJ&view_op=list_works&pagesize=100">Citations</a></li>');
 document.write('<li class="section"><a href="code.html">Code</a></li>');
 document.write('<li class="section"><a href="http://www.sirassystems.com">Company</a></li>');
-document.write('<li class="section"><a href="./resumes/odonovan-cv-2017.pdf">Resume</a></li>');
+document.write('<li class="section"><a href="./resumes/cv-odonovan-2018.pdf">Resume</a></li>');
 document.write('<li class="section"><a href="conferences.html">Conferences</a></li>');
 document.write('</ul>');
 document.write('</div>');
