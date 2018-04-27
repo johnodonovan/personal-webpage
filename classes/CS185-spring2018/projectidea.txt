@@ -1,0 +1,19 @@
+Group Members: person1, person 2, person 3, person 4
+
+Project Proposal:
+
+Problem / Application Idea / Overall Project Goal: Being
+healthy in today's society is very difficult. To make staying
+healthy easier, we are proposing an application that tracks
+various data that helps in maintaining good health, like
+exercise data. By tracking sets, reps, laps, miles ran, pounds
+lifted, etc., our app will help to show the user their progress
+in staying / becoming healthy over time, as well as provide
+useful interpretations of their data over time. Our application
+will allow the user to enter this data in an easy, quick
+manner, regardless of whether the user is a novice or an expert
+user of the application, with maximum retention over time, and
+minimum time to learn. Our app will be modular, and easily
+scalable, to allow for more features over time in multiple
+activities. Our application will be based on data input by the
+user, along with storing past data to track progress over time.
