@@ -15,5 +15,5 @@ document.write('			 <div id="contact_text_div1">Email: jod@cs.ucsb.edu	  ');
 document.write('			 <div id="contact_text_div2">Office: Room 101, Building 935.');
 document.write('			 <div id="contact_text_div3">Fax:  (805) 893-8553	  ');
 document.write('			 <div id="contact_text_div4">Office Hours: 2-3pm Mon/Thur	  ');
-document.write('			   <br /><br /></div> 	');		
+document.write('			 </div> 	');		
 document.write('		</header>');
