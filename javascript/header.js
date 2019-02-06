@@ -8,7 +8,7 @@ document.write('				<div id="title_div">	');
 document.write('			<span id="name_span">John O\'Donovan </span>  &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp ');
 document.write('			Department of Computer Science, University of California, Santa Barbara		');
 document.write('			 </div>');
-document.write('			 <div id="intro_text_div">I am an associate research scientist at the Computer Science dept., UCSB. My research background is in AI, with focus on recommender systems.  I have a particular interest in human-computer interaction aspects of these systems --for example, learning how an interaction design impacts human trust in an algorithm over time. 	I am also a co-founder and CTO of <a href=http://www.sirassystems.com>Siras Systems Inc.</a>, and a consulting director of Artificial Intelligence at <a href="https://intouchhealth.com/">InTouch Health Inc.</a>	');
+document.write('			 <div id="intro_text_div">I am an associate research scientist at the Computer Science dept., UCSB. My research background is in AI, with focus on recommender systems.  I have a particular interest in human-computer interaction aspects of these systems --for example, learning how an interaction design impacts human trust in an algorithm over time. 	I am also a co-founder of <a href=http://www.sirassystems.com>Siras Systems Inc.</a>, and a consulting director of Artificial Intelligence at <a href="https://intouchhealth.com/">InTouch Health Inc.</a>	');
 document.write('			   <div id="ucsb_logo"><img src="images/logos/ucsb.png" alt="ucsb" />');
 document.write('			</div>');
 document.write('			 <div id="contact_text_div1">Email: jod@cs.ucsb.edu	  ');
