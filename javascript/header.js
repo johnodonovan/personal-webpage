@@ -1,7 +1,7 @@
 document.write('		<header id="header">');
 document.write('			<a href="index.html">');
 document.write('				<div id="logo">');
-document.write('					<img src="images/logos/jod-profile1.jpg" alt="profile picture"/>');
+document.write('					<img src="images/logos/jod-profile-300px.png" alt="profile picture"/>');
 document.write('				</div>');
 document.write('			</a>');
 document.write('				<div id="title_div">	');
