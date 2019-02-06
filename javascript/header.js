@@ -12,8 +12,7 @@ document.write('			 <div id="intro_text_div">I am an associate research scientis
 document.write('			   <div id="ucsb_logo"><img src="images/logos/ucsb.png" alt="ucsb" />');
 document.write('			</div>');
 document.write('			 <div id="contact_text_div1">Email: jod@cs.ucsb.edu	  ');
-document.write('			 <div id="contact_text_div2">Office: Room 101, Building 935.');
-document.write('			 <div id="contact_text_div3">Fax:  (805) 893-8553	  ');
-document.write('			 <div id="contact_text_div4">Office Hours: Email for appointment.	  ');
+document.write('			 <div id="contact_text_div2">UCSB Office: 5110 Harold Frank Hall');
+document.write('			 <div id="contact_text_div4">Hours: Email for appointment.	  ');
 document.write('			 </div> 	');		
 document.write('		</header>');
